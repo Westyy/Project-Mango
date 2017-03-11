@@ -1,0 +1,15 @@
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\Mango.exe.config
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\Mango.exe
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\Mango.pdb
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\FluentNHibernate.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\Iesi.Collections.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\log4net.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\MySql.Data.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\NHibernate.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\Nini.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\FluentNHibernate.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\Iesi.Collections.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\log4net.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Release\NHibernate.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\obj\x86\Release\Mango.exe
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\obj\x86\Release\Mango.pdb

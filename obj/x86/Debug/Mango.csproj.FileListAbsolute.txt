@@ -1,0 +1,132 @@
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Mango.exe.config
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Mango.exe
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Mango.pdb
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\FluentNHibernate.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Iesi.Collections.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\log4net.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Mango.Common.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\MySql.Data.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\NHibernate.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Nini.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Mango.Common.pdb
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\FluentNHibernate.xml
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Iesi.Collections.xml
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\NHibernate.xml
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\log4net.xml
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\obj\x86\Debug\Mango.exe
+C:\Users\Matty\Documents\Visual Studio 2010\Projects\Mango\Mango\obj\x86\Debug\Mango.pdb
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Mango.exe.config
+C:\Users\Matty\Desktop\Mango\Mango\obj\x86\Debug\Mango.exe
+C:\Users\Matty\Desktop\Mango\Mango\obj\x86\Debug\Mango.pdb
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Mango.exe
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Mango.pdb
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\FluentNHibernate.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Iesi.Collections.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\log4net.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Mango.Common.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\MySql.Data.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\NHibernate.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Nini.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Mango.Common.pdb
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\FluentNHibernate.xml
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Iesi.Collections.xml
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\NHibernate.xml
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\log4net.xml
+C:\Users\Matty\Desktop\Mango\Mango\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matty\Desktop\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Mango.exe.config
+C:\Users\Matty\Documents\Mango\Mango\obj\x86\Debug\Mango.exe
+C:\Users\Matty\Documents\Mango\Mango\obj\x86\Debug\Mango.pdb
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Mango.exe
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Mango.pdb
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\FluentNHibernate.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Iesi.Collections.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\log4net.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Mango.Common.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\MySql.Data.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\NHibernate.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Nini.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Mango.Common.pdb
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\FluentNHibernate.xml
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Iesi.Collections.xml
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\NHibernate.xml
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\log4net.xml
+C:\Users\Matty\Documents\Mango\Mango\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matty\Documents\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Mango.exe.config
+\\vmware-host\Shared Folders\Documents\Mango\Mango\obj\x86\Debug\Mango.exe
+\\vmware-host\Shared Folders\Documents\Mango\Mango\obj\x86\Debug\Mango.pdb
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Mango.exe
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Mango.pdb
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\FluentNHibernate.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Iesi.Collections.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\log4net.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Mango.Common.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\MySql.Data.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\NHibernate.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Nini.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Mango.Common.pdb
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\FluentNHibernate.xml
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Iesi.Collections.xml
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\NHibernate.xml
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\log4net.xml
+\\vmware-host\Shared Folders\Documents\Mango\Mango\bin\Debug\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Mango.exe.config
+C:\Users\Gwen\Desktop\Mango\Mango\obj\x86\Debug\Mango.exe
+C:\Users\Gwen\Desktop\Mango\Mango\obj\x86\Debug\Mango.pdb
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Mango.exe
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Mango.pdb
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\FluentNHibernate.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Iesi.Collections.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\log4net.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Mango.Common.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\MySql.Data.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\NHibernate.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Nini.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Mango.Common.pdb
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\FluentNHibernate.xml
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Iesi.Collections.xml
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\NHibernate.xml
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\log4net.xml
+C:\Users\Gwen\Desktop\Mango\Mango\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gwen\Desktop\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\Mango.exe.config
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\obj\x86\Debug\Mango.exe
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\obj\x86\Debug\Mango.pdb
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\Mango.exe
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\Mango.pdb
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\FluentNHibernate.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\Iesi.Collections.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\log4net.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\MySql.Data.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\NHibernate.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\Nini.dll
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\FluentNHibernate.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\Iesi.Collections.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\log4net.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\bin\Debug\NHibernate.xml
+C:\Users\Gwen\Documents\Visual Studio 2012\Projects\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\VM Shared\Mango\Mango\bin\Debug\Mango.exe.config
+\\vmware-host\Shared Folders\VM Shared\Mango\Mango\obj\x86\Debug\Mango.exe
+\\vmware-host\Shared Folders\VM Shared\Mango\Mango\obj\x86\Debug\Mango.pdb
+Z:\VM Shared\Mango\Mango\bin\Debug\Mango.exe.config
+Z:\VM Shared\Mango\Mango\obj\x86\Debug\Mango.exe
+Z:\VM Shared\Mango\Mango\obj\x86\Debug\Mango.pdb
+Z:\VM Shared\Mango\Mango\bin\Debug\Mango.exe
+Z:\VM Shared\Mango\Mango\bin\Debug\Mango.pdb
+Z:\VM Shared\Mango\Mango\bin\Debug\log4net.dll
+Z:\VM Shared\Mango\Mango\bin\Debug\MySql.Data.dll
+Z:\VM Shared\Mango\Mango\bin\Debug\Nini.dll
+Z:\VM Shared\Mango\Mango\bin\Debug\log4net.xml
+Z:\VM Shared\Mango\Mango\obj\x86\Debug\Mango.csprojResolveAssemblyReference.cache
+C:\Users\Matty\Desktop\Mango\src\Mango\bin\Debug\Mango.exe.config
+C:\Users\Matty\Desktop\Mango\src\Mango\obj\x86\Debug\Mango.exe
+C:\Users\Matty\Desktop\Mango\src\Mango\obj\x86\Debug\Mango.pdb
